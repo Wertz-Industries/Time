@@ -1,0 +1,97 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: UL89oEq0REMObWpuualBiyOu3NE=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: fsRYeD1TqrGJFjNuxWSss34rqtM=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/TransformDefinition.class
+SHA1-Digest: DjByJ5dEQThwARVgCHLALwpXQBI=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/internal/JAXPSAXProcessor
+ Invoker.class
+SHA1-Digest: M6veKBfeJZx8GbhROvETuJ6/LlA=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/debugger/AbstractDebugger.class
+SHA1-Digest: yqD63cNnAZ14zBcI141m+kmnpjY=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/messages.properties
+SHA1-Digest: q4UOOnDnTX/tQ8AaaxMpbCKmlqw=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/debugger/IXSLDebugger.class
+SHA1-Digest: AI3H9jT5pfKK7mGRe8JVsydN1hk=
+
+Name: plugin.properties
+SHA1-Digest: 0SHZDDE2/4+XYpLqg4JkRT55ELk=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.xsl.jaxp.debug/pom.xml
+SHA1-Digest: zvayT2NF6FaTfWqS5QaYE/TG218=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/internal/JAXPSAXProcessor
+ Invoker$1.class
+SHA1-Digest: RpZv+SHozFysauqslvSgJ7N7hTw=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/debugger/DebugRunner.class
+SHA1-Digest: bO4mVH0BPfjw7zEpPZloWHO/gUY=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/debugger/AbstractDebugger$1.class
+SHA1-Digest: +FP5XnOqh0c1ICO53qwk9+64lRk=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.xsl.jaxp.debug/pom.properties
+SHA1-Digest: txbOZxIFz2yZTa6WZbDGpcitvH4=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/Messages.class
+SHA1-Digest: epf0DOCV16ruLpMgXni4QytBF48=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/debugger/Variable.class
+SHA1-Digest: ZqVOC5nbevfY/8hZASRCNphwxpw=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/debugger/StyleFrame.class
+SHA1-Digest: 0P04o0/fZsjQC+s9X92D792a4/4=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/debugger/DebugConstants.class
+SHA1-Digest: oMCJKx5rvXZBpVXer2xsQZMe234=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/debugger/DebugRunner$1.class
+SHA1-Digest: SHMsqGk78Gd+q3XB67f9zgeqf24=
+
+Name: log4j.properties
+SHA1-Digest: sXRklC+SVSJa5A15Sva0kfo4aRQ=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/TransformationException.c
+ lass
+SHA1-Digest: Ay2HJchX/V+l5uDeOcRk25cpM2A=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/PipelineDefinition.class
+SHA1-Digest: jvEM8ZgdGSgUD1uez5kw40FU+9I=
+
+Name: about.html
+SHA1-Digest: kD29n7wJyRmxS72vxV7kWIfhvik=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/internal/Main.class
+SHA1-Digest: e9tWN0Pgzs84WE1xQiYNPVwQXFk=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/internal/ConfigurationExc
+ eption.class
+SHA1-Digest: qmurZiohCLhF3Od+J4tX8ZUVogw=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/internal/messages.propert
+ ies
+SHA1-Digest: jQupMypE3JQXwlvArqyIYKwdUCo=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/internal/CreationExceptio
+ n.class
+SHA1-Digest: V3YwoIOHjuZ1/+aFe7Sqv2rg1/A=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/IProcessorInvoker.class
+SHA1-Digest: ahOAdyOVTskN/UWVnqpQXONUcvk=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/debugger/BreakPoint.class
+SHA1-Digest: yA1SdSmS2osV7K3z9e24UPBHVtM=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/TypedValue.class
+SHA1-Digest: dJIZseywu8BbxU5XMIS53IUq9yo=
+
+Name: org/eclipse/wst/xsl/jaxp/debug/invoker/internal/Messages.class
+SHA1-Digest: niMiLgUWF4Xz/KdGnu5LCRu6DM4=
+

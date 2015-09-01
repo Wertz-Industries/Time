@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_55
+Built-By: fabio_000
+Created-By: Apache Maven 3.2.1
+Archiver-Version: Plexus Archiver
+
+Name: META-INF/maven/org.python.pydev/org.python.pydev.mylyn.feature/p
+ om.xml
+SHA-256-Digest: uyu13Ii8pbefArlnn0boW789l5sBObmqiMG5cnp1Vh4=
+
+Name: META-INF/maven/org.python.pydev/org.python.pydev.mylyn.feature/p
+ om.properties
+SHA-256-Digest: 4kZKQBe2JFB93BAKiW01Rfctc1430j/gI3PO+JfZ4Lc=
+
+Name: feature.xml
+SHA-256-Digest: U3nibe9jghb1bRuPDDnhWWhi6WK9WcTEaIUunv+ehDI=
+
